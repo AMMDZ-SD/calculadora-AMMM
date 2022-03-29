@@ -1,0 +1,46 @@
+input[type=button] 
+{
+background-color: #330e52;
+border: none;
+color: rgb(247, 247, 247);
+font-weight: bold;
+padding: 6px 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 20px;
+margin: 4px 4px;
+cursor: pointer;
+box-shadow: 5px 5px 5px black;
+}
+
+input[type="text"]
+{
+border: solid;
+color: rgb(0, 0, 0);
+padding: 15px 32;
+text-align: right;
+text-decoration: none;
+display: inline-block;
+font-size: 24px;
+margin: 4px 2px;
+cursor: pointer;
+width: 98%;
+box-shadow: 3px 3px 3px black;
+}
+
+body
+{
+background-color: #0a0863;
+text-align: center;
+font-size: 2.2em;
+}
+
+table 
+{
+background-color: #8d0909;
+padding: 5px 5px;
+}
+.h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
